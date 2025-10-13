@@ -1,5 +1,5 @@
 <h3 align="center">
-	<a href="http://www.instagram.com/zayan_127.0.0.1">Hi, I'm Abid Usmani!</a>
+	<a href="http://www.instagram.com/abid_usmani_343">Hi, I'm Abid Usmani!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
