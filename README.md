@@ -37,9 +37,7 @@
 ## My GitHub Analytics 📈
 
 <p align="center">
-	<a href="#streak-stats">
-		<img src="https://streak-stats.demolab.com?user=abidusmani&theme=nightowl&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="abid"/>
-	</a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abidusmani" alt="GitHub Streak" /></a>
 </p>
 
 <div>
