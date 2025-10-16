@@ -37,7 +37,7 @@
 ## My GitHub Analytics 📈
 
 <div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=abidusmani)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abidusmani)](https://git.io/streak-stats) 
 </div>
 
 <div>
