@@ -36,10 +36,9 @@
 
 ## My GitHub Analytics 📈
 
-
+<div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=abidusmani&hide_border=true&theme=nightowl)](https://git.io/streak-stats) 
-
-
+</div>
 <div>
 
 [![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abidusmani&hide_border=true&theme=nightowl)](https://github.com/abidusmani/github-readme-activity-graph)
