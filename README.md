@@ -1,4 +1,4 @@
-<h3 align="center">
+good<h3 align="center">
 	<a href="http://www.instagram.com/abid_usmani_343">Hi, I'm Abid Usmani!</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -36,9 +36,9 @@
 
 ## My GitHub Analytics 📈
 
-<div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=abidusmani)](https://git.io/streak-stats) 
-</div>
+
 
 <div>
 
