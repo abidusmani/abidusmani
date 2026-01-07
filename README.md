@@ -7,11 +7,15 @@
 
 ## About Me 😎
 
-- 🎓 I am a **Postgradute** in **Master of Computer Application**. <br>
-- 👀 I’m interested in Open Source, Frontend and Programming.
-- 💞️ I’m looking to collaborate on any open source platform.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in **Java**.<br>
-- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+🎓 I am a Postgraduate with a Master of Computer Applications (MCA). <br>
+
+👀 I’m interested in Frontend Development, Full-Stack Engineering, and Open-Source Contributions.
+
+💞️ I’m looking to collaborate on open-source projects and real-world product development.
+
+💡 I am currently working as a Software Developer, focusing on JavaScript, React.js, REST APIs, and backend integrations. <br>
+
+📚 I continuously work on enhancing my skills by learning system design, performance optimization, and modern web technologies to grow in the tech industry.
 
 
 ## Tech Stack 🥞
